@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Gestcow",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

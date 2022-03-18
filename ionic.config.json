@@ -1,0 +1,8 @@
+{
+  "name": "Gestcow",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "35d61e29"
+}
